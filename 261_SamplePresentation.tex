@@ -181,14 +181,51 @@ And then use the \textbf{numerical rules} to convert the \textbf{numbers} back i
 
 \end{frame}
 
-\begin{frame}\frametitle{Conversion Plain-text -> Numerical Matrix}
-First, we convert the plain-text into its corresponding numerical matrix
+\begin{frame}
+\center ENCRYPTION
+\end{frame}
+
+\begin{frame}\frametitle{Conversion Plain-text to Numerical Matrix}
+\footnotesize First, we convert the plain-text into its corresponding numerical matrix 
 \center \includegraphics[scale=0.275]{conversion_AES_1}
 \center \includegraphics[scale=0.275]{numerical}
 \end{frame}
 
 \begin{frame}\frametitle{Shifting rows}
-
+	\begin{enumerate}[1]
+		\item First row is unchanged
+		\item Second row is shifted to the left 1 time
+		\item Third row is shifted to the left 2 times
+		\item Fourth row is shifted to the left 3 times
+	\end{enumerate}	
+	\center \includegraphics[scale=0.15]{shift_rows_1}
 \end{frame}
 
+\begin{frame}\frametitle{Mixing the columns}
+	The four decimals in each column are transformed using a linear transformation
+	\center In this example, we'll scale the second column by 2
+	\center \includegraphics[scale=0.05]{mix_column_1}
+\end{frame}
+
+\begin{frame}\frametitle{Adding round keys}
+	We then multiply the matrix by another randomly generated invertible matrix, which is the private key
+	\center \includegraphics[scale=0.25]{add_round_key}
+\end{frame}
+
+\begin{frame}\frametitle{Sending and Deciphering}
+	After encrypting the matrix, it is now secure to be sent to the recipient(s).\\
+	To decrypting, we can decipher the message using the private key that contains all the operation backward!
+\end{frame}
+
+\section{Conclusion}
+\begin{frame}\frametitle{Conclusion}
+	\begin{enumerate}[]
+	\item Encryption plays an essential role in securing our private data.
+	\item The examples use Linear Algebra to handle the Math, but there can be other methods!
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}
+	\center Thank you very much for watching!
+\end{frame}
 \end{document}
