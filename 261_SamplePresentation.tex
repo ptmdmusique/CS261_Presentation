@@ -1,4 +1,4 @@
-\documentclass[11pt]{beamer}
+	\documentclass[11pt]{beamer}
 
 %%%%%%%%%%%%%%% PACKAGES %%%%%%%%%%%%%%%
 
@@ -82,6 +82,7 @@ Because many types of encryption Matrix use the Math behind matrices to encrypt,
 \section{The fundamental example of Encryption}
 \begin{frame}\frametitle{A simple encryption method}
 \center Let's take a look at a simple encryption type :D
+\center Say, I want to encrypt the word "MATH"
 \end{frame}
 
 \begin{frame}\frametitle{The general Idea}
@@ -124,6 +125,15 @@ The vectors are then \textbf{augmented} to form a \textbf{plain-text matrix}.
 The plain-text matrix is then \textbf{multiplied} by another \textbf{cipher-matrix} to create the \textbf{encrypted matrix}.
 \center \includegraphics[scale=0.2]{multiply_1}
 
+\end{frame}
+
+\begin{frame}\frametitle{Decrypting the matrix}
+	\center Let's take a look at this
+	\begin{align*}
+		& &&C \times P &&&= E\\
+		&\iff &&C^{-1} \times C \times P &&&= C^{-1} \times E\\
+		&\iff &&P &&&= C^{-1} \times E\\
+	\end{align*}
 \end{frame}
 
 \begin{frame}\frametitle{Decrypting the matrix}
