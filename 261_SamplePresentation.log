@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.4)  7 JUN 2018 14:10
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.2)  5 JUN 2018 20:11
->>>>>>> parent of aaa920f... Final
 entering extended mode
 **./261_SamplePresentation.tex
 (261_SamplePresentation.tex
@@ -929,11 +925,7 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 <./images/numerical.png, id=330, 1044.90375pt x 95.75775pt>
 File: ./images/numerical.png Graphic file (type png)
 <use ./images/numerical.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/numerical.png  used on input line 102.
-=======
-Package pdftex.def Info: ./images/numerical.png  used on input line 99.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 287.34145pt x 26.33272pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -945,11 +937,7 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 <./images/math_1.png, id=366, 1053.9375pt x 376.40625pt>
 File: ./images/math_1.png Graphic file (type png)
 <use ./images/math_1.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/math_1.png  used on input line 116.
-=======
-Package pdftex.def Info: ./images/math_1.png  used on input line 113.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -961,11 +949,7 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 <./images/MATH.png, id=400, 1053.9375pt x 376.40625pt>
 File: ./images/MATH.png Graphic file (type png)
 <use ./images/MATH.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/MATH.png  used on input line 123.
-=======
-Package pdftex.def Info: ./images/MATH.png  used on input line 120.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -977,11 +961,7 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 <./images/multiply_1.png, id=434, 1053.9375pt x 376.40625pt>
 File: ./images/multiply_1.png Graphic file (type png)
 <use ./images/multiply_1.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/multiply_1.png  used on input line 130.
-=======
-Package pdftex.def Info: ./images/multiply_1.png  used on input line 127.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -990,7 +970,6 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 [12
 
  <./images/multiply_1.png>]
-<<<<<<< HEAD
 LaTeX Font Info:    Try loading font information for U+msa on input line 139.
 
 ("D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1018,28 +997,6 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 File: ./images/inverse_1.png Graphic file (type png)
 <use ./images/inverse_1.png>
 Package pdftex.def Info: ./images/inverse_1.png  used on input line 145.
-=======
-<./images/inverse_1.png, id=468, 1053.9375pt x 376.40625pt>
-File: ./images/inverse_1.png Graphic file (type png)
-<use ./images/inverse_1.png>
-Package pdftex.def Info: ./images/inverse_1.png  used on input line 133.
->>>>>>> parent of aaa920f... Final
-(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
-
-Overfull \vbox (0.63347pt too high) has occurred while \output is active []
-
-
-[13
-
- <./images/inverse_1.png>]
-<./images/multiply_2.png, id=503, 1053.9375pt x 376.40625pt>
-File: ./images/multiply_2.png Graphic file (type png)
-<use ./images/multiply_2.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/multiply_2.png  used on input line 152.
-=======
-Package pdftex.def Info: ./images/multiply_2.png  used on input line 140.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -1047,15 +1004,11 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 [14
 
- <./images/multiply_2.png>]
-<./images/linear_2.png, id=537, 1053.9375pt x 376.40625pt>
-File: ./images/linear_2.png Graphic file (type png)
-<use ./images/linear_2.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/linear_2.png  used on input line 159.
-=======
-Package pdftex.def Info: ./images/linear_2.png  used on input line 147.
->>>>>>> parent of aaa920f... Final
+ <./images/inverse_1.png>]
+<./images/multiply_2.png, id=538, 1053.9375pt x 376.40625pt>
+File: ./images/multiply_2.png Graphic file (type png)
+<use ./images/multiply_2.png>
+Package pdftex.def Info: ./images/multiply_2.png  used on input line 152.
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -1063,15 +1016,11 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 [15
 
- <./images/linear_2.png>]
-<./images/math_2.png, id=570, 1053.9375pt x 376.40625pt>
-File: ./images/math_2.png Graphic file (type png)
-<use ./images/math_2.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/math_2.png  used on input line 166.
-=======
-Package pdftex.def Info: ./images/math_2.png  used on input line 154.
->>>>>>> parent of aaa920f... Final
+ <./images/multiply_2.png>]
+<./images/linear_2.png, id=572, 1053.9375pt x 376.40625pt>
+File: ./images/linear_2.png Graphic file (type png)
+<use ./images/linear_2.png>
+Package pdftex.def Info: ./images/linear_2.png  used on input line 159.
 (pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
@@ -1079,13 +1028,19 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 [16
 
- <./images/math_2.png>]
+ <./images/linear_2.png>]
+<./images/math_2.png, id=605, 1053.9375pt x 376.40625pt>
+File: ./images/math_2.png Graphic file (type png)
+<use ./images/math_2.png>
+Package pdftex.def Info: ./images/math_2.png  used on input line 166.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [17
 
-]
+ <./images/math_2.png>]
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
@@ -1104,128 +1059,103 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 [20
 
 ]
-<./images/initial_matrix_1.png, id=733, 292.4526pt x 292.4526pt>
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[21
+
+]
+<./images/initial_matrix_1.png, id=768, 292.4526pt x 292.4526pt>
 File: ./images/initial_matrix_1.png Graphic file (type png)
 <use ./images/initial_matrix_1.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/initial_matrix_1.png  used on input line 200.
-=======
-Package pdftex.def Info: ./images/initial_matrix_1.png  used on input line 188.
->>>>>>> parent of aaa920f... Final
 
 (pdftex.def)             Requested size: 87.73645pt x 87.73645pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
-[21
+[22
 
  <./images/initial_matrix_1.png>]
-<./images/conversion_AES_1.png, id=767, 801.7152pt x 390.258pt>
+<./images/conversion_AES_1.png, id=802, 801.7152pt x 390.258pt>
 File: ./images/conversion_AES_1.png Graphic file (type png)
 <use ./images/conversion_AES_1.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/conversion_AES_1.png  used on input line 206.
-=======
-Package pdftex.def Info: ./images/conversion_AES_1.png  used on input line 194.
->>>>>>> parent of aaa920f... Final
 
 (pdftex.def)             Requested size: 220.46623pt x 107.3183pt.
 File: ./images/numerical.png Graphic file (type png)
 <use ./images/numerical.png>
-<<<<<<< HEAD
 Package pdftex.def Info: ./images/numerical.png  used on input line 206.
-=======
-Package pdftex.def Info: ./images/numerical.png  used on input line 194.
->>>>>>> parent of aaa920f... Final
 (pdftex.def)             Requested size: 287.34145pt x 26.33272pt.
-
-Overfull \vbox (0.63347pt too high) has occurred while \output is active []
-
-
-[22
-
- <./images/conversion_AES_1.png>]
-<./images/shift_rows_1.png, id=802, 1604.99625pt x 594.22pt>
-File: ./images/shift_rows_1.png Graphic file (type png)
-<use ./images/shift_rows_1.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/shift_rows_1.png  used on input line 216.
-=======
-Package pdftex.def Info: ./images/shift_rows_1.png  used on input line 204.
->>>>>>> parent of aaa920f... Final
-(pdftex.def)             Requested size: 240.73904pt x 89.12915pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [23
 
- <./images/shift_rows_1.png>]
-<./images/mix_column_1.png, id=836, 3387.65625pt x 1798.72pt>
-File: ./images/mix_column_1.png Graphic file (type png)
-<use ./images/mix_column_1.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/mix_column_1.png  used on input line 222.
-=======
-Package pdftex.def Info: ./images/mix_column_1.png  used on input line 210.
->>>>>>> parent of aaa920f... Final
-(pdftex.def)             Requested size: 169.39273pt x 89.94127pt.
+ <./images/conversion_AES_1.png>]
+<./images/shift_rows_1.png, id=837, 1604.99625pt x 594.22pt>
+File: ./images/shift_rows_1.png Graphic file (type png)
+<use ./images/shift_rows_1.png>
+Package pdftex.def Info: ./images/shift_rows_1.png  used on input line 216.
+(pdftex.def)             Requested size: 240.73904pt x 89.12915pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [24
 
- <./images/mix_column_1.png>]
-<./images/add_round_key.png, id=870, 802.4379pt x 628.9899pt>
-File: ./images/add_round_key.png Graphic file (type png)
-<use ./images/add_round_key.png>
-<<<<<<< HEAD
-Package pdftex.def Info: ./images/add_round_key.png  used on input line 227.
-(pdftex.def)             Requested size: 200.60898pt x 157.24709pt.
-
-Overfull \vbox (0.90031pt too high) detected at line 227
-=======
-Package pdftex.def Info: ./images/add_round_key.png  used on input line 215.
-(pdftex.def)             Requested size: 200.60898pt x 157.24709pt.
-
-Overfull \vbox (0.90031pt too high) detected at line 215
->>>>>>> parent of aaa920f... Final
- []
-
+ <./images/shift_rows_1.png>]
+<./images/mix_column_1.png, id=871, 3387.65625pt x 1798.72pt>
+File: ./images/mix_column_1.png Graphic file (type png)
+<use ./images/mix_column_1.png>
+Package pdftex.def Info: ./images/mix_column_1.png  used on input line 222.
+(pdftex.def)             Requested size: 169.39273pt x 89.94127pt.
 
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [25
 
- <./images/add_round_key.png>]
+ <./images/mix_column_1.png>]
+<./images/add_round_key.png, id=906, 802.4379pt x 628.9899pt>
+File: ./images/add_round_key.png Graphic file (type png)
+<use ./images/add_round_key.png>
+Package pdftex.def Info: ./images/add_round_key.png  used on input line 227.
+(pdftex.def)             Requested size: 200.60898pt x 157.24709pt.
+
+Overfull \vbox (0.90031pt too high) detected at line 227
+ []
+
+
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [26
 
-]
-
-LaTeX Warning: The counter will not be printed.
-<<<<<<< HEAD
-             The label is:  on input line 240.
-=======
-             The label is:  on input line 228.
->>>>>>> parent of aaa920f... Final
-
-
+ <./images/add_round_key.png>]
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [27
 
 ]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 240.
+
+
 Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
 
 [28
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[29
 
 ]
 Overfull \hbox (21.13376pt too wide) in paragraph at lines 253--253
@@ -1255,25 +1185,16 @@ Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `261_SamplePresentation.snm'.
 
-<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
  (261_SamplePresentation.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
- (261_SamplePresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
->>>>>>> parent of aaa920f... Final
 Package rerunfilecheck Info: File `261_SamplePresentation.out' has not changed.
 
 (rerunfilecheck)             Checksum: 73F95AA3734D188B3A6FBADA286C715C;378.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  17425 strings out of 493305
  331947 string characters out of 3138863
  401724 words of memory out of 3000000
@@ -1295,22 +1216,5 @@ Output written on 261_SamplePresentation.pdf (30 pages, 1113489 bytes).
 PDF statistics:
  1115 PDF objects out of 1200 (max. 8388607)
  67 named destinations out of 1000 (max. 500000)
-=======
- 17338 strings out of 493305
- 324486 string characters out of 3125016
- 400724 words of memory out of 3000000
- 20431 multiletter control sequences out of 15000+200000
- 6945 words of font info for 25 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 56i,19n,61p,791b,619s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/MikTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmss8.pf
-b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><D:/MikTeX/fonts/type1/pu
-blic/amsfonts/cm/cmssbx10.pfb>
-Output written on 261_SamplePresentation.pdf (28 pages, 1055372 bytes).
-PDF statistics:
- 1030 PDF objects out of 1200 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
->>>>>>> parent of aaa920f... Final
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
