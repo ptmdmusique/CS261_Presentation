@@ -1,0 +1,501 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.2)  10 JUN 2018 13:08
+entering extended mode
+**./261_SamplePaper.tex
+(261_SamplePaper.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(D:\MikTeX\tex\latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(D:\MikTeX\tex\latex\base\size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\MikTeX\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\MikTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikTeX\tex\latex\tools\multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count95
+)
+(D:\MikTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks15
+)
+(D:\MikTeX\tex\latex\tools\tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+ (D:\MikTeX\tex\latex\tools\array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen112
+\extrarowheight=\dimen113
+\NC@list=\toks16
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+\TX@col@width=\dimen114
+\TX@old@table=\dimen115
+\TX@old@col=\dimen116
+\TX@target=\dimen117
+\TX@delta=\dimen118
+\TX@cols=\count96
+\TX@ftn=\toks17
+)
+(D:\MikTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(D:\MikTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MikTeX\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\MikTeX\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+)
+(D:\MikTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(D:\MikTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MikTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen121
+))
+(D:\MikTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen122
+)
+(D:\MikTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen123
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip11
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks20
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks21
+\eqnshift@=\dimen124
+\alignsep@=\dimen125
+\tagshift@=\dimen126
+\tagwidth@=\dimen127
+\totwidth@=\dimen128
+\lineht@=\dimen129
+\@envbody=\toks22
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(D:\MikTeX\tex\latex\amscls\amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks29
+) (D:\MikTeX\tex\latex\amsmath\amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks30
+\minaw@=\dimen130
+\bigaw@=\dimen131
+\minCDarrowwidth=\dimen132
+) (D:\MikTeX\tex\latex\amsrefs\amsrefs.sty
+Package: amsrefs 2013/03/07 v2.14
+
+(D:\MikTeX\tex\latex\amsrefs\pcatcode.sty
+Package: pcatcode 2002/04/16 v1.04
+)
+(D:\MikTeX\tex\latex\amsrefs\ifoption.sty
+Package: ifoption 2002/03/04 v1.02
+)
+(D:\MikTeX\tex\latex\amsrefs\rkeyval.sty
+Package: rkeyval 2004/05/05 v1.08
+\@temptokenb=\toks31
+\rsk@toks=\toks32
+)
+(D:\MikTeX\tex\latex\amsrefs\textcmds.sty
+Package: textcmds 2012/08/02 v2.00
+)
+(D:\MikTeX\tex\latex\amsrefs\mathscinet.sty
+Package: mathscinet 2002/04/17 v1.05
+)
+\c@bib=\count109
+\@maxlabelwidth=\dimen133
+\c@bib@env=\count110
+\bib@dbfile=\read1
+\alpha@suffix=\count111
+\series@index=\count112
+)
+(D:\MikTeX\tex\latex\preprint\authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip53
+\@affilsep=\skip54
+\c@Maxaffil=\count113
+\c@authors=\count114
+\c@affil=\count115
+)
+(D:\MikTeX\tex\latex\changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count116
+\cp@tempcnt=\count117
+)
+(D:\MikTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\MikTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(D:\MikTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\MikTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count118
+\Gm@cntv=\count119
+\c@Gm@tempcnt=\count120
+\Gm@bindingoffset=\dimen134
+\Gm@wd@mp=\dimen135
+\Gm@odd@mp=\dimen136
+\Gm@even@mp=\dimen137
+\Gm@layoutwidth=\dimen138
+\Gm@layoutheight=\dimen139
+\Gm@layouthoffset=\dimen140
+\Gm@layoutvoffset=\dimen141
+\Gm@dimlist=\toks33
+
+(D:\MikTeX\tex\latex\geometry\geometry.cfg)) (261_SamplePaper.aux)
+\openout1 = `261_SamplePaper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+
+(D:\MikTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen142
+\scratchbox=\box54
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen143
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks35
+) (D:\MikTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\MikTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\MikTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\MikTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(D:\MikTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(D:\MikTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\MikTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\MikTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:\MikTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(D:\MikTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+[1
+
+{C:/Users/Duc M Phan Thanh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+<./images/numerical.png, id=11, 1044.90375pt x 95.75775pt>
+File: ./images/numerical.png Graphic file (type png)
+<use ./images/numerical.png>
+Package pdftex.def Info: ./images/numerical.png  used on input line 96.
+(pdftex.def)             Requested size: 287.34145pt x 26.33272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+<./images/math_1.png, id=13, 1053.9375pt x 376.40625pt>
+File: ./images/math_1.png Graphic file (type png)
+<use ./images/math_1.png>
+Package pdftex.def Info: ./images/math_1.png  used on input line 107.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+<./images/MATH.png, id=14, 1053.9375pt x 376.40625pt>
+File: ./images/MATH.png Graphic file (type png)
+<use ./images/MATH.png>
+Package pdftex.def Info: ./images/MATH.png  used on input line 110.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+[2 <./images/numerical.png> <./images/math_1.png> <./images/MATH.png>]
+<./images/multiply_1.png, id=21, 1053.9375pt x 376.40625pt>
+File: ./images/multiply_1.png Graphic file (type png)
+<use ./images/multiply_1.png>
+Package pdftex.def Info: ./images/multiply_1.png  used on input line 116.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 123.
+
+(D:\MikTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 123.
+ (D:\MikTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[3 <./images/multiply_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+<./images/inverse_1.png, id=30, 1053.9375pt x 376.40625pt>
+File: ./images/inverse_1.png Graphic file (type png)
+<use ./images/inverse_1.png>
+Package pdftex.def Info: ./images/inverse_1.png  used on input line 133.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+<./images/multiply_2.png, id=31, 1053.9375pt x 376.40625pt>
+File: ./images/multiply_2.png Graphic file (type png)
+<use ./images/multiply_2.png>
+Package pdftex.def Info: ./images/multiply_2.png  used on input line 136.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+<./images/linear_2.png, id=32, 1053.9375pt x 376.40625pt>
+File: ./images/linear_2.png Graphic file (type png)
+<use ./images/linear_2.png>
+Package pdftex.def Info: ./images/linear_2.png  used on input line 140.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+<./images/math_2.png, id=33, 1053.9375pt x 376.40625pt>
+File: ./images/math_2.png Graphic file (type png)
+<use ./images/math_2.png>
+Package pdftex.def Info: ./images/math_2.png  used on input line 142.
+(pdftex.def)             Requested size: 210.78377pt x 75.2799pt.
+File: ./images/numerical.png Graphic file (type png)
+<use ./images/numerical.png>
+Package pdftex.def Info: ./images/numerical.png  used on input line 143.
+(pdftex.def)             Requested size: 365.72179pt x 33.5157pt.
+
+Package rkeyval Warning: Unknown key: \bib'page on input line 161.
+
+
+Package amsrefs Warning: Abbreviation 'etc.' undefined on input line 167.
+
+[4 <./images/inverse_1.png> <./images/multiply_2.png> <./images/linear_2.png> <
+./images/math_2.png>] [5] (261_SamplePaper.aux) ) 
+Here is how much of TeX's memory you used:
+ 4279 strings out of 493305
+ 54358 string characters out of 3125016
+ 130461 words of memory out of 3000000
+ 7732 multiletter control sequences out of 15000+200000
+ 11096 words of font info for 41 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,32p,451b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikTeX/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:
+/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/
+MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MikT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/MikT
+eX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on 261_SamplePaper.pdf (5 pages, 239213 bytes).
+PDF statistics:
+ 83 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
