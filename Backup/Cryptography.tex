@@ -1,3 +1,4 @@
+
 	\documentclass[11pt]{beamer}
 
 %%%%%%%%%%%%%%% PACKAGES %%%%%%%%%%%%%%%
@@ -12,6 +13,9 @@
 \usepackage{amscd}
 \usepackage{graphicx}
 \graphicspath{ {./images/} }
+
+\usepackage{sansmathaccent}
+\pdfmapfile{+sansmathaccent.map}
 
 %%%%%%%%%%%%%%% BEAMER THEME %%%%%%%%%%%%%%%
 
@@ -52,7 +56,7 @@
 \begin{frame}\frametitle{What we are going to do?}
 	
 \center Let's explore the world of encryption!
-\center \includegraphics[scale=0.2]{encryption}
+\center \includegraphics[scale=0.2]{encryption.png}
 \end{frame}
 
 \section{What is Cryptography}
@@ -96,7 +100,7 @@ Because many types of encryption Matrix use the Math behind matrices to encrypt,
 \begin{frame}\frametitle{Plain-text to Matrix}
 
 Each \textbf{character} in plain-text must be denoted with a \textbf{numerical value} and placed into a matrix.
-\center \includegraphics[scale=0.275]{numerical}
+\center \includegraphics[scale=0.275]{numerical.png}
 \end{frame}
 
 \begin{frame}\frametitle{Plain-text to Matrix}
@@ -108,7 +112,7 @@ Each \textbf{character} in plain-text must be denoted with a \textbf{numerical v
 \item \textbf{Values} are placed \textbf{one at a time}, \textbf{going down} a row for each value.
 \item Vectors are filled \textbf{one to another}.
 \item The remaining \textbf{empty entries} in the \textbf{last vector} is filled with \textbf{space}.
-\center \includegraphics[scale=0.2]{math_1}
+\center \includegraphics[scale=0.2]{math_1.png}
 
 \end{enumerate}
 \end{frame}
@@ -116,14 +120,14 @@ Each \textbf{character} in plain-text must be denoted with a \textbf{numerical v
 \begin{frame}\frametitle{Plain-text to Matrix}
 
 The vectors are then \textbf{augmented} to form a \textbf{plain-text matrix}.
-\center \includegraphics[scale=0.2]{MATH}
+\center \includegraphics[scale=0.2]{MATH.png}
 
 \end{frame}
 
 \begin{frame}\frametitle{Encrypting the matrix}
 
 The plain-text matrix is then \textbf{multiplied} by another \textbf{cipher-matrix} to create the \textbf{encrypted matrix}.
-\center \includegraphics[scale=0.2]{multiply_1}
+\center \includegraphics[scale=0.2]{multiply_1.png}
 
 \end{frame}
 
@@ -139,27 +143,27 @@ The plain-text matrix is then \textbf{multiplied} by another \textbf{cipher-matr
 \begin{frame}\frametitle{Decrypting the matrix}
 
 First, we need to find the \textbf{inverse} of the \textbf{cipher-matrix}.\\[10mm]
-\center \includegraphics[scale=0.2]{inverse_1}
+\center \includegraphics[scale=0.2]{inverse_1.png}
 \end{frame}
 
 \begin{frame}\frametitle{Decrypting the matrix}
 
 The \textbf{inverted matrix} is then \textbf{multiplied} with the \textbf{cipher-text matrix}.
 The \textbf{product} is the original \textbf{plain-text matrix}.
-\center \includegraphics[scale=0.2]{multiply_2}
+\center \includegraphics[scale=0.2]{multiply_2.png}
 \end{frame}
 
 \begin{frame}\frametitle{Decrypting the matrix}
 
 The \textbf{plain-text} can be found by \textbf{splitting} the \textbf{products} into \textbf{vectors}
-\center \includegraphics[scale=0.2]{linear_2}
+\center \includegraphics[scale=0.2]{linear_2.png}
 
 \end{frame}
 
 \begin{frame}\frametitle{Decrypting the matrix}
 
 And then use the \textbf{numerical rules} to convert the \textbf{numbers} back into their \textbf{letter forms}.
-\center \includegraphics[scale=0.2]{math_2}
+\center \includegraphics[scale=0.2]{math_2.png}
 
 \end{frame}
 
@@ -193,14 +197,14 @@ And then use the \textbf{numerical rules} to convert the \textbf{numbers} back i
 
 \begin{frame}\frametitle{From text to plain-text matrix}
 	Just like in the last example, we use the same rules to convert the text into a matrix. 
-	\center \includegraphics[scale=0.3]{initial_matrix_1}
+	\center \includegraphics[scale=0.3]{initial_matrix_1.png}
 
 \end{frame}
 
 \begin{frame}\frametitle{Conversion Plain-text to Numerical Matrix}
 \footnotesize Then, we convert the plain-text into its corresponding numerical matrix 
-\center \includegraphics[scale=0.275]{conversion_AES_1}
-\center \includegraphics[scale=0.275]{numerical}
+\center \includegraphics[scale=0.275]{conversion_AES_1.png}
+\center \includegraphics[scale=0.275]{numerical.png}
 \end{frame}
 
 \begin{frame}\frametitle{Shifting rows}
@@ -210,18 +214,18 @@ And then use the \textbf{numerical rules} to convert the \textbf{numbers} back i
 		\item Third row is shifted to the left 2 times
 		\item Fourth row is shifted to the left 3 times
 	\end{enumerate}	
-	\center \includegraphics[scale=0.15]{shift_rows_1}
+	\center \includegraphics[scale=0.15]{shift_rows_1.png}
 \end{frame}
 
 \begin{frame}\frametitle{Mixing the columns}
 	The four decimals in each column are transformed using a linear transformation
 	\center In this example, we'll scale the second column by 2
-	\center \includegraphics[scale=0.05]{mix_column_1}
+	\center \includegraphics[scale=0.05]{mix_column_1.png}
 \end{frame}
 
 \begin{frame}\frametitle{Adding round keys}
 	We then multiply the matrix by another randomly generated invertible matrix, which is the private key
-	\center \includegraphics[scale=0.25]{add_round_key}
+	\center \includegraphics[scale=0.25]{add_round_key.png}
 \end{frame}
 
 \begin{frame}\frametitle{Sending and Deciphering}
@@ -240,4 +244,14 @@ And then use the \textbf{numerical rules} to convert the \textbf{numbers} back i
 \begin{frame}
 	\center Thank you very much for watching!
 \end{frame}
+
+\begin{frame}\frametitle{Reference}
+References :\\
+	\phantom{x}\hspace{3mm}\footnotesize \url{https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard}
+Resources:\\
+	\phantom{x}\hspace{3mm}\footnotesize \url{http://people.wku.edu/david.neal/307/Unit4/Crypt.pdf}\\
+	\phantom{x}\hspace{3mm}\footnotesize \url{http://web.csulb.edu/~jchang9/m247/m247_fa11_David_Diego_Alissa_Daniel.pdf}
+
+\end{frame}
+
 \end{document}
